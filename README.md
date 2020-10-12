@@ -1,3 +1,3 @@
 # calculator-made-using-python
 
-####UI MADE USING TKINDER
+# UI MADE USING TKINDER
